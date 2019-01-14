@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Prediction of Length of Stay (LOS) from Patients Data in Sweden</h2>
-<h2><a href="https://www.dropbox.com/s/0aodqwztnw2rbje/Report.pdf?dl=0">>>Report Link <<</a></h2>
+<h2><a href="https://www.dropbox.com/s/8xp9aj4kydhgcmi/Report.pdf?dl=0">>>Report Link <<</a></h2>
 
 <h2>Keywords:</h2>
 <p>Exploratory Data Analysis, Correlation, Survival Models, Log Rank Test, ANOVA, Linear Regression, Cox Proportional-Hazards Model, Weibull Regression Model, Variable Selection, Forward and Backward Stepwise, LASSO, Wald-Wolfowitz Runs Test, Data Visialzation.</p>
