@@ -1,0 +1,11 @@
+/*===================SAS code Smp=============*/
+  
+/***  Load the data into SAS  ****/ 
+proc lifetest data=z plots=(s);
+time y*dead(1);
+strata group;
+run;
+
+proc phreg data=z;
+model y*dead(1)= group;
+run;
