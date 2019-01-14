@@ -106,3 +106,12 @@ lines(s,coef(lasso)[,4])
 lines(s,coef(lasso)[,5])
 lines(s,coef(lasso)[,6])
 ...
+
+
+###### Randomness Check ######
+
+library(snpar)
+x<-dataFP$LAMA
+runs.test(x)
+library(randtests)
+runs.test(x)#Wald-Wolfowitz Runs Test
