@@ -7,7 +7,7 @@
 <p>Exploratory Data Analysis, Correlation, Survival Models, Log Rank Test, ANOVA, Linear Regression, Cox Proportional-Hazards Model, Weibull Regression Model, Variable Selection, Forward and Backward Stepwise, LASSO, Data Visialzation.</p>
 
 <h2>Packages:</h2>
-<p>Hmisc, corrplot, survival, flexsurv, eha, graphics, grDevices, leaps, ggvis, lars, methods, stats, utils, datasets.</p>
+<p>Hmisc, corrplot, survival, flexsurv, eha, graphics, grDevices, leaps, ggvis, lars, snpar, randtests, methods, stats, utils, datasets.</p>
 
 <h2>Summary:</h2>
 <p>Database contains the data of all patients hospitalized with depression in Sweden from 2008 to 2013. The variables are:
