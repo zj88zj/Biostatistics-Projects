@@ -10,10 +10,9 @@
 <p>Hmisc, corrplot, survival, flexsurv, eha, graphics, grDevices, leaps, ggvis, lars, snpar, randtests, methods, stats, utils, datasets.</p>
 
 <h2>Summary:</h2>
-<p>Database contains the data of all patients hospitalized with depression in Sweden from 2008 to 2013. The variables are:
-"YEAR","AGE","RACE","FEMALE","LOS","NCHRONIC","DIED","ALCOHOL","ANEMDEF","ARTH","BLDLOSS","CHF","CHRNLUNG","COAG","DEPRESS","DRUG","HTN","LIVER","OBESE","RENLFAIL","LAMA","ULCER","VALVE","WGHTLOSS"
-
-We are interested in predicting the distribution of Length of Stay (LOS) as a function of demographics, disease variables and comorbidities. However, many of these patients left the hospital against medical advice (LAMA) so the observe value could be consider as a lower bound of the true LOS.</p>
+<p>Database contains the data of all patients hospitalized with depression in Sweden from 2008 to 2013. Variables:
+<img width="756" alt="screen shot 2019-01-14 at 11 56 53 am" src="https://user-images.githubusercontent.com/32077985/51143959-d77e2f00-181d-11e9-8038-00c45ed20ef5.png"></p>
+<p>We are interested in predicting the distribution of Length of Stay (LOS) as a function of demographics, disease variables and comorbidities. However, many of these patients left the hospital against medical advice (LAMA) so the observe value could be consider as a lower bound of the true LOS.</p>
 
 <h2>Main Tasks:</h2>
 <p><ol>
