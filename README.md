@@ -1,8 +1,12 @@
 # Biostatistics-Projects
-Prediction of Length of Stay (LOS) from Patients Data in Sweden
+<html>
+<body>
+<h1 style="front-family:Times">
+  Prediction of Length of Stay (LOS) from Patients Data in Sweden
+ </h1>
+<h2 style="font-size:200%;"><a href="https://www.dropbox.com/s/0aodqwztnw2rbje/Report.pdf?dl=0">>>Report Link <<</a></h2>
 
-
-Keywords: 
+<h2 style="background-color: lavendar;">Keywords:</h2>
 Exploratory Data Analysis, Correlation, Survival Models, Log Rank Test, ANOVA, Linear Regression, Cox Proportional-Hazards Model, Weibull Regression Model, Variable Selection, Forward and Backward Stepwise, LASSO, Data Visialzation.
 
 Packages: 
@@ -22,4 +26,5 @@ Main Tasks:
 Compare a parametric model with a non-parametric model and show the
 differences. Compare Proportional Hazard vs Weibull models. Use variable selection models.
 4. Check the randomness of patients who left against medical advice.
-
+</body>
+</html>
