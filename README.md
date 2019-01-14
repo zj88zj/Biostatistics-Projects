@@ -4,7 +4,7 @@
 <h2><a href="https://www.dropbox.com/s/0aodqwztnw2rbje/Report.pdf?dl=0">>>Report Link <<</a></h2>
 
 <h2>Keywords:</h2>
-<p>Exploratory Data Analysis, Correlation, Survival Models, Log Rank Test, ANOVA, Linear Regression, Cox Proportional-Hazards Model, Weibull Regression Model, Variable Selection, Forward and Backward Stepwise, LASSO, Data Visialzation.</p>
+<p>Exploratory Data Analysis, Correlation, Survival Models, Log Rank Test, ANOVA, Linear Regression, Cox Proportional-Hazards Model, Weibull Regression Model, Variable Selection, Forward and Backward Stepwise, LASSO, Wald-Wolfowitz Runs Test, Data Visialzation.</p>
 
 <h2>Packages:</h2>
 <p>Hmisc, corrplot, survival, flexsurv, eha, graphics, grDevices, leaps, ggvis, lars, snpar, randtests, methods, stats, utils, datasets.</p>
