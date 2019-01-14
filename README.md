@@ -1,4 +1,3 @@
-# Biostatistics-Projects
 <html>
 <body>
 <h2>Prediction of Length of Stay (LOS) from Patients Data in Sweden</h2>
