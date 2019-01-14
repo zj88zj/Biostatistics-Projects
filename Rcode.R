@@ -21,7 +21,6 @@ corrplot(cor(dataFP), type="upper", tl.srt=45, tl.col="black", tl.cex = 0.5)
 
 
 
-
 ###### Kaplan-Meier Survival Curves ######
 
 library(survival)
@@ -32,7 +31,6 @@ plot(survfit(Surv(log(1+LOS),1-LAMA)~DIED,data=dataFP))
 
 ##Log Rank Test##
 survdiff(Surv(log(1+LOS),1-LAMA)~AGE,data=dataFP)
-
 
 
 
@@ -107,7 +105,4 @@ plot(s, coef(lasso)[,2],xlab='shinkage factor s', ylab='coefficient', axes=TRUE)
 lines(s,coef(lasso)[,4])
 lines(s,coef(lasso)[,5])
 lines(s,coef(lasso)[,6])
-lines(s,coef(lasso)[,12])
-lines(s,coef(lasso)[,16])
-lines(s,coef(lasso)[,17])
-lines(s,coef(lasso)[,21])
+...
